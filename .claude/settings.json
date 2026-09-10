@@ -1,0 +1,20 @@
+{
+  "enabledPlugins": {
+    "headroom@headroom-marketplace": true,
+    "ponytail@ponytail": true
+  },
+  "extraKnownMarketplaces": {
+    "headroom-marketplace": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/headroomlabs-ai/headroom.git"
+      }
+    },
+    "ponytail": {
+      "source": {
+        "source": "git",
+        "url": "https://github.com/DietrichGebert/ponytail.git"
+      }
+    }
+  }
+}
